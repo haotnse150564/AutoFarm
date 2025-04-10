@@ -34,6 +34,6 @@ export default [
         { allowConstantExport: true },
       ],
     },
-    base: 'autofarm'
+    base: 'AutoFarm/IoT-Based-Farm-Management-System-IBFM-main/FE/'
   },
 ]
